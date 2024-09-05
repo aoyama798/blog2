@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aoyama798.github.io/blog2/sitemap.xml
